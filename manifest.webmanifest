@@ -1,7 +1,7 @@
 {
-  "name": "Aventura 6° — Banco completo 2026",
+  "name": "Aventura 6° — Plataforma de práctica académica",
   "short_name": "Aventura 6°",
-  "description": "256 preguntas originales: 64 por cada asignatura, con simulacros de 60 ítems.",
+  "description": "Aplicación educativa con perfiles y prácticas estilo MEP.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -9,9 +9,6 @@
   "theme_color": "#4338ca",
   "orientation": "any",
   "lang": "es-CR",
-  "categories": [
-    "education"
-  ],
   "icons": [
     {
       "src": "icon-192.png",
