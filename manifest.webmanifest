@@ -1,0 +1,29 @@
+{
+  "name": "Aventura 6° — Banco completo 2026",
+  "short_name": "Aventura 6°",
+  "description": "256 preguntas originales: 64 por cada asignatura, con simulacros de 60 ítems.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#4338ca",
+  "orientation": "any",
+  "lang": "es-CR",
+  "categories": [
+    "education"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
